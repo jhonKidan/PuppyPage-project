@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.blue-bg{
+color: #fff;
+background-color: #195774;
+font-size: 30px;
+text-align: center;
+padding: 30px;
+}
+img{
+    width: 100%;
+}
+.triple-puppy .missing-here {
+    background-color: #EE4D65;
+    width: 309px;
+    height: 314px;
+    
+}
+.puppy-wrapper{
+    display: flex;
+    width: 960px;
+    margin: 30px auto;
+    justify-content: space-between;
+}
+.more-text p{
+ text-align: center;
+ font-size: 30px;
+ font-weight: bold;
+}
+.missing-here p{
+    padding: 70px;
+    font-size: 50px;
+}
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.footer-text{
+padding-bottom: 50px;
+}
